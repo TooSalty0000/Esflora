@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c6f7c9c4197423f886b8b574e11167, type: 3}
+  m_Name: Amplem
+  m_EditorClassIdentifier: 
+  cropName: Amplem
+  description: "This plant's music softens people's heart and regenerate tired bodies. 
+    \nPlants other than Amplems near it will not age. "
+  prefab: {fileID: 5777969729046465194, guid: 3cf3bcc19575b4c479870a02df7e141c, type: 3}
+  decayTurns: 2
+  energy: 5
+  energyUsage: 6
+  price: 8

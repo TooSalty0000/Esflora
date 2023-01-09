@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c6f7c9c4197423f886b8b574e11167, type: 3}
+  m_Name: Anterin
+  m_EditorClassIdentifier: 
+  cropName: Anterin
+  description: "It is said that ancient civilizations used it for communication.
+    \nFor each plant nearby, its energy return and usage increases. "
+  prefab: {fileID: 5986748781558229359, guid: bff0eba33730c490399d214da5bac475, type: 3}
+  decayTurns: 3
+  energy: 2
+  energyUsage: 2
+  price: 10

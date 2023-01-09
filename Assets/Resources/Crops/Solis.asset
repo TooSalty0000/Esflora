@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c6f7c9c4197423f886b8b574e11167, type: 3}
+  m_Name: Solis
+  m_EditorClassIdentifier: 
+  cropName: Solis
+  description: 'It has evolved to absorb as much sunlight as possible. However, people
+    do not know where else to use this plant. '
+  prefab: {fileID: 6333151015726216406, guid: 5c308f95e67454dc4b46d1e204decaa5, type: 3}
+  decayTurns: 3
+  energy: 6
+  energyUsage: 8
+  price: 1
